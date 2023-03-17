@@ -1,6 +1,6 @@
 # Codewars
 
-Tracking my codewars and the solutions.
+Codewars problems that I have completed.
 
 **Link to profile:** https://www.codewars.com/users/ParadiseLost69
 
